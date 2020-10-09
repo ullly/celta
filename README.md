@@ -9,10 +9,11 @@ Hosting is with GitHub Pages.
 
 * Install Jekyll and Bundler. See the Jekyll [docs](https://jekyllrb.com/docs/) for details.
 * Clone the repo: `git clone https://github.com/ullly/celta.git`.
+* Change into the repo directory: `cd celta`.
+* Install dependencies in the Gemfile: `bundle install`.
 
 ## Usage
 
-* Change into the repo directory: `cd celta`.
 * Build the site and make it available on a local server: `bundle exec jekyll serve`.
 * Browse to `http://localhost:4000/celta/`.
 
