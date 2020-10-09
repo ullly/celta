@@ -18,11 +18,11 @@ Hosting is with GitHub Pages.
 
 ## Credits
 
-An adapted theme from [Riccardo G.'s](https://github.com/riggraz)) "no style, please!" theme. Original available 
+An adapted theme from [Riccardo G.](https://github.com/riggraz))'s "no style, please!" theme. Original available 
 [here](https://github.com/riggraz/no-style-please).
 
 The original is licensed under the MIT License. A copy of the license is included in this repo in `/LICENSE-ORIGINAL`.
 
 ## License
 
-This adaptation is licensed under the MIT License See /LICENSE.
+This adaptation is licensed under the MIT License. See /LICENSE.
