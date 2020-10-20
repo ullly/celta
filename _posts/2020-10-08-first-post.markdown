@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "First Post"
+title:  "Lesson Zero"
 date:   2020-10-08 22:28:39 +0100
 categories: celta
 ---
 
-Testing the waters. 
+- This lesson focused on listening. 

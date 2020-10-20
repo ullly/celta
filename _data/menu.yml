@@ -2,12 +2,12 @@ entries:
   - title: info
     url: false
     entries:
-      - title: dispatches from a CELTA trainee
+      - title: notes from a CELTA trainee
         url: false
       - title: read this about page for more info
         url: about
 
-  - title: posts
+  - title: notes
     post_list: true
     url: false
     entries: false

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Dispatches from a CELTA trainee at 
+Notes from a CELTA trainee at 
 [University College Cork](https://www.ucc.ie/en/esol/). 
 
 CELTA is an English teaching qualification provided by 
