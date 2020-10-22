@@ -10,3 +10,6 @@ Notes from a CELTA trainee at
 CELTA is an English teaching qualification provided by 
 [Cambridge](https://www.cambridgeenglish.org/teaching-english/teaching-qualifications/celta/)
 through authorised centres. 
+
+Original content is licensed under the MIT License. A copy of the license is available [here](https://raw.githubusercontent.com/ullly/celta/main/LICENSE). 
+Other content is clearly attributed.  
