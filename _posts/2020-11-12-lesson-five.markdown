@@ -6,6 +6,5 @@ categories: celta
 ---
 
 - This lesson focused on listening. 
-- Here is the [presentation](https://drive.google.com/file/d/1ExmYRgkJzpUnXLh1Iy1tnDB8CVTMjrG-/view?usp=sharing).
-- Here is the [exercise](https://drive.google.com/file/d/1pIoFPaZDaBOZw7xX_P8U58E0bQv-LkWG/view?usp=sharing).
-
+- Here is the [presentation](assets/lesson-00-b2-pres-ultan.pdf).
+- Here is the [exercise](assets/lesson-00-b2-doc-ultan.pdf).

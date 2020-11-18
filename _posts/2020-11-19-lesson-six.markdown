@@ -6,6 +6,6 @@ categories: celta
 ---
 
 - This lesson focused on listening and vocabulary. 
-- Here is the [presentation](https://drive.google.com/file/d/17gaUyPTni3Qah2JBpmmFhwKmp3Qb9bU2/view?usp=sharing).
-- Here is the [exercise](https://drive.google.com/file/d/1od9ktG9gfzhJL9mxZlu1AojiC5ShQk3L/view?usp=sharing).
+- Here is the [presentation](assets/lesson-01-b2-pres-ultan.pdf).
+- Here is the [exercise](assets/lesson-01-b2-doc-ultan.pdf).
 
