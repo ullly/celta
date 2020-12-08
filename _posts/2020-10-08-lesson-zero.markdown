@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lesson Zero"
+title:  "Lesson Zero (A2)"
 date:   2020-10-08 22:28:39 +0100
 categories: celta
 ---
